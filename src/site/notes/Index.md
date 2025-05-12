@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dp-home":true,"tags":["gardenEntry"],"permalink":"/index/","dgPassFrontmatter":true,"created":"2025-05-07T12:30:45.422+02:00","updated":"2025-05-12T15:45:07.327+02:00"}
+{"dg-publish":true,"dp-home":true,"tags":["gardenEntry"],"permalink":"/Index/","dgPassFrontmatter":true,"created":"2025-05-07T12:30:45.422+02:00","updated":"2025-05-12T15:45:07.327+02:00"}
 ---
 
 ![Islarios de contemporaniedad 2.png](/img/user/Anexos/Islarios%20de%20contemporaniedad%202.png)

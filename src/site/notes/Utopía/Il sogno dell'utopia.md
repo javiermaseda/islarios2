@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["gardenEntry"],"permalink":"/utopia/il-sogno-dell-utopia/","dgPassFrontmatter":true,"created":"2025-03-18T11:49:21.000+01:00","updated":"2025-05-12T15:37:24.451+02:00"}
+{"dg-publish":true,"tags":["gardenEntry"],"permalink":"/Utopía/Il sogno dell'utopia/","dgPassFrontmatter":true,"created":"2025-03-18T11:49:21.000+01:00","updated":"2025-05-12T15:37:24.451+02:00"}
 ---
 
 Fecha: 2014-2015

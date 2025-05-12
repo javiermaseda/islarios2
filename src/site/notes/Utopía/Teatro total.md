@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["gardenEntry"],"permalink":"/utopia/teatro-total/","dgPassFrontmatter":true,"created":"2025-03-18T11:49:51.000+01:00","updated":"2025-05-12T15:38:14.539+02:00"}
+{"dg-publish":true,"tags":["gardenEntry"],"permalink":"/Utopía/Teatro total/","dgPassFrontmatter":true,"created":"2025-03-18T11:49:51.000+01:00","updated":"2025-05-12T15:38:14.539+02:00"}
 ---
 
 Fecha: 1927
