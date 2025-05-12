@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/utopia/arquitectura-radical/","dgPassFrontmatter":true,"created":"2025-03-18T11:23:37.000+01:00","updated":"2025-05-12T14:03:49.488+02:00"}
+{"dg-publish":true,"tags":["gardenEntry"],"permalink":"/utopia/arquitectura-radical/","dgPassFrontmatter":true,"created":"2025-03-18T11:23:37.000+01:00","updated":"2025-05-12T15:32:30.755+02:00"}
 ---
 
 Fecha: 2002
@@ -17,4 +17,4 @@ Literatura y referencias:
 
 Web: https://caam.net/exposicion/arquitectura-radical/
 
-![ArquitecturaRadical.jpg](/img/user/ArquitecturaRadical.jpg)
+![ArquitecturaRadical.jpg](/img/user/Anexos/ArquitecturaRadical.jpg)
