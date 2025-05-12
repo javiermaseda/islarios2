@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/utopia/arquitectura-radical/"}
+{"dg-publish":true,"permalink":"/utopia/arquitectura-radical/","created":"2025-03-18T11:23:37.000+01:00","updated":"2025-05-12T14:03:49.488+02:00"}
 ---
 
 Fecha: 2002
