@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"permalink":"/Utopía/Arquitectura radical/","dgPassFrontmatter":true,"created":"2025-03-18T11:23:37.000+01:00","updated":"2025-05-12T16:06:02.013+02:00"}
+{"title":"Arquitectura radical","permalink":"/Utopía/Arquitectura radical/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:23:37.000+01:00","updated":"2025-06-04T19:38:40.330+02:00"}
 ---
 
 Fecha: 2002

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"permalink":"/Utopía/This is Tomorrow/","dgPassFrontmatter":true,"created":"2025-03-17T23:38:51.000+01:00","updated":"2025-05-12T16:05:36.065+02:00"}
+{"title":"This is Tomorrow","permalink":"/Utopía/This is Tomorrow/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-17T23:38:51.000+01:00","updated":"2025-06-04T19:37:48.320+02:00"}
 ---
 
 Fecha: 1956

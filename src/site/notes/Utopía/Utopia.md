@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"permalink":"/Utopía/Utopia/","dgPassFrontmatter":true,"created":"2025-03-18T11:25:02.000+01:00","updated":"2025-06-04T19:33:08.147+02:00"}
+{"title":"Utopia","permalink":"/Utopía/Utopia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:25:02.000+01:00","updated":"2025-06-04T19:37:00.058+02:00"}
 ---
 
 
