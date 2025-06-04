@@ -1,5 +1,5 @@
 ---
-{"title":"New Babylon","permalink":"/Utopía/New Babylon/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:16:11.000+01:00","updated":"2025-06-04T19:38:10.440+02:00"}
+{"title":"New Babylon","permalink":"/utopia/new-babylon/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:16:11.000+01:00","updated":"2025-06-04T19:38:10.440+02:00"}
 ---
 
 Fecha: 1956-1974

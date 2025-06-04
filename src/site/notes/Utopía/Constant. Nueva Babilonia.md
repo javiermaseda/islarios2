@@ -1,5 +1,5 @@
 ---
-{"title":"Constant. Nueva Babilonia","permalink":"/Utopía/Constant. Nueva Babilonia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:12:30.000+01:00","updated":"2025-06-04T19:38:50.146+02:00"}
+{"title":"Constant. Nueva Babilonia","permalink":"/utopia/constant-nueva-babilonia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:12:30.000+01:00","updated":"2025-06-04T19:38:50.146+02:00"}
 ---
 
 Fecha: 2015-2016

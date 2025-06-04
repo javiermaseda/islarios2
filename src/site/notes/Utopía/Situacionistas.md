@@ -1,5 +1,5 @@
 ---
-{"title":"Situacionistas","permalink":"/Utopía/Situacionistas/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:21:12.000+01:00","updated":"2025-06-04T19:37:31.651+02:00"}
+{"title":"Situacionistas","permalink":"/utopia/situacionistas/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:21:12.000+01:00","updated":"2025-06-04T19:37:31.651+02:00"}
 ---
 
 Fecha: 1996

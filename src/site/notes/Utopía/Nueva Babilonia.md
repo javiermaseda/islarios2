@@ -1,5 +1,5 @@
 ---
-{"title":"Nueva Babilonia","permalink":"/Utopía/Nueva Babilonia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:49:31.000+01:00","updated":"2025-06-04T19:38:00.142+02:00"}
+{"title":"Nueva Babilonia","permalink":"/utopia/nueva-babilonia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:49:31.000+01:00","updated":"2025-06-04T19:38:00.142+02:00"}
 ---
 
 Fecha: 2021-2022

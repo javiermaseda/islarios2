@@ -1,5 +1,5 @@
 ---
-{"title":"Il sogno dell'utopia","permalink":"/Utopía/Il sogno dell'utopia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:49:21.000+01:00","updated":"2025-06-04T19:38:22.383+02:00"}
+{"title":"Il sogno dell'utopia","permalink":"/utopia/il-sogno-dell-utopia/","dg-publish":true,"tags":["gardenEntry"],"dp-home":null,"dgPassFrontmatter":true,"created":"2025-03-18T11:49:21.000+01:00","updated":"2025-06-04T19:38:22.383+02:00"}
 ---
 
 Fecha: 2014-2015
